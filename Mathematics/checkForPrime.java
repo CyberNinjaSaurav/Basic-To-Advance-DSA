@@ -65,7 +65,7 @@ public class checkForPrime {
     }
     public static void main(String[] args) {
         int n = 13;
-        System.out.println(isPrime2(n));
+        System.out.println(isPrime3(n));
     }
     
 }
